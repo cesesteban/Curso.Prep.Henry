@@ -1,0 +1,2 @@
+* `prototype`, es la informacion que se encuentra en los objetos, sus funciones y propiedades.
+* _Constructors_ (de Clases), se utilizan para asignar los valores de las variables de los objetos.

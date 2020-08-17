@@ -1,0 +1,1 @@
+Arrays, es un tipo de dato que nos permite almacenar mas de un valor en una unica variable.

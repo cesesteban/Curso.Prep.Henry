@@ -1,0 +1,5 @@
+    * Objetos, forma de referirse a un conjunto de atributos y pueden llegar a tener metodos/ funciones.
+	* Propiedades, caracteristicas con las que se define un objeto.
+	* Métodos, funciones que nos permite realizar tareas en un objeto determinado.
+	* Bucle `for…in`, contador que se utiliza para recorrer los valores de las propiedades de un objeto.
+	* Notación de puntos vs notación de corchetes, la notacion de puntos invoca la propiedad o un metodo de un objeto  dado. la notacion de chorchetes nos permite asignar valores dentro de un objeto.

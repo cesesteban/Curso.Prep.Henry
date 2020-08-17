@@ -1,0 +1,1 @@
+Funciones Callback, son funciones que sirver para ejecutar acciones y pueden recibir como parametro otras funciones para realizar una tarea especifica.

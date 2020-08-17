@@ -1,25 +1,45 @@
 
 
             h1 {
+                position: fixed;
+                bottom: 0px;
+                right: 0px;
                 color:blue;
+                background-color:black;
             }
+
+            h3{
+                padding-left: 275px;
+            }
+
+            h4{
+                padding-left: 225px;
+            }
+
+            
 
             img {
                 width: 400px;
             }
 
             #thirdDiv{
-                height: 500px;
+                height: 600px;
                 width: 500px;
                 background-color: green;
-                padding: 50px;
+                /*padding: 50px;*/
                 border: 10px solid blue;
+                margin: 50px;
+                padding-left: 20px;
+                padding-top: 20px;
             }
 
             #spanId{
+                display: block;
+                padding-left: 175px;
                 font-size: 18px;
-                margin: 50px;
+                /*margin: 50px;*/
             }
+
 
           
 
